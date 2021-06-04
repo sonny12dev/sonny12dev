@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonny12dev
-- 👀 I’m interested in web development
+- 👀 I’m interested in Angular development
 - 🌱 I’m currently hooked in MEAN Stack
 - 📫 You can reach me through my email sonnynnos087@gmail.com
 
